@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|c:\\users\\hieun\\source\\repos\\qlcoffee\\qlcoffee\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|C:\\Users\\hieun\\source\\repos\\QLCoffee\\qlcoffee\\views\\home\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\views\\home\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|C:\\Users\\hieun\\source\\repos\\QLCoffee\\qlcoffee\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|C:\\Users\\hieun\\source\\repos\\QLCoffee\\qlcoffee\\views\\staff\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\views\\staff\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|C:\\Users\\hieun\\source\\repos\\QLCoffee\\qlcoffee\\views\\staff\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\views\\staff\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|C:\\Users\\hieun\\source\\repos\\QLCoffee\\qlcoffee\\views\\staff\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\views\\staff\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|C:\\Users\\hieun\\source\\repos\\QLCoffee\\qlcoffee\\views\\staff\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\views\\staff\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|C:\\Users\\hieun\\source\\repos\\QLCoffee\\qlcoffee\\views\\staff\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B59DF0DE-C5FC-484E-945A-FCD0105D58A7}|QLCoffee\\QLCoffee.csproj|solutionrelative:qlcoffee\\views\\staff\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLCoffee\\Views\\Staff\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Edit.cshtml",
+              "RelativeToolTip": "QLCoffee\\Views\\Staff\\Edit.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T12:27:49.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QLCoffee\\Views\\Staff\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Delete.cshtml",
+              "RelativeToolTip": "QLCoffee\\Views\\Staff\\Delete.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T17:44:41.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLCoffee\\Views\\Staff\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Details.cshtml",
+              "RelativeToolTip": "QLCoffee\\Views\\Staff\\Details.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAMwEUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T13:10:02.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLCoffee\\Views\\Staff\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Create.cshtml",
+              "RelativeToolTip": "QLCoffee\\Views\\Staff\\Create.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T18:06:02.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLCoffee\\Views\\Staff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\Index.cshtml",
+              "RelativeToolTip": "QLCoffee\\Views\\Staff\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T04:15:11.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "QLCoffee\\Views\\Staff\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Staff\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "QLCoffee\\Views\\Staff\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T13:52:01.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "QLCoffee\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "QLCoffee\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:47:40.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChu.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Home\\TrangChu.cshtml",
+              "RelativeDocumentMoniker": "QLCoffee\\Views\\Home\\TrangChu.cshtml",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\QLCoffee\\QLCoffee\\Views\\Home\\TrangChu.cshtml",
+              "RelativeToolTip": "QLCoffee\\Views\\Home\\TrangChu.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T14:07:31.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
